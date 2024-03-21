@@ -1,4 +1,4 @@
-from ocr_python_POO.ex2_forum.modules import file as f
+from modules import file as f
 
 
 class ImageFile(f.File):

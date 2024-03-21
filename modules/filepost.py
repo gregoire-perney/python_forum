@@ -1,4 +1,4 @@
-from ocr_python_POO.ex2_forum.modules import post as p
+from modules import post as p
 
 
 class FilePost(p.Post):

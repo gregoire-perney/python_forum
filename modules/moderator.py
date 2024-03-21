@@ -1,4 +1,4 @@
-from ocr_python_POO.ex2_forum.modules import user as u
+from modules import user as u
 
 
 class Moderator(u.User):

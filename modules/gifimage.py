@@ -1,4 +1,4 @@
-from ocr_python_POO.ex2_forum.modules import imagefile as imf
+from modules import imagefile as imf
 
 
 class GIFImage(imf.ImageFile):

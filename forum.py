@@ -4,7 +4,7 @@ import time
 
 def main():
     user1 = u.User(username="John", password="azerty123")
-    modo1 = m.moderator.Moderator(username="Edward(moderator)", password="HelloWorld!")
+    modo1 = m.Moderator(username="Edward(moderator)", password="HelloWorld!")
 
     python_thread = user1.make_thread(title="What is Python?", content="Hello, I want to know what is Python?")
     python_thread.display()

@@ -1,4 +1,4 @@
-from ocr_python_POO.ex2_forum.modules import filepost as fp, post as p, thread as th
+from modules import filepost as fp, post as p, thread as th
 
 
 class User:
